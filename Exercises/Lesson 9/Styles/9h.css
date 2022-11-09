@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+div img {
+    width: 250px;
+}
+
+div input {
+    border-style: groove;
+    border-radius: 10px;
+
+    margin-left: 100px;
+    display: block;
+    width: 150px;
+}
+
+div input {
+    width: 500px;
+    margin-bottom: 15px;
+    margin: auto;
+}
+
+div button {
+    display: inline-flex;
+}

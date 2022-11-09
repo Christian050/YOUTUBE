@@ -1,0 +1,33 @@
+button {
+    width: 80px;
+    height: 40px;
+    vertical-align: top;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s, border-width 0.15s;
+}
+
+.apply {
+    color: white;
+    font-weight: bold;
+    width: 230px;
+    background-color: rgb(10, 102, 194);
+    border-radius: 20px;
+    border: none;
+}
+
+.apply:hover {
+    background-color: rgb(4, 85, 165);
+}
+.save {
+    font-weight: bold;
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.save:hover {
+    background-color: rgb(203, 226, 249);
+    border-width: 3px;
+}

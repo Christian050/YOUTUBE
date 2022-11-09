@@ -1,0 +1,41 @@
+* {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div {
+    font-family: Arial;
+    width: 340px;
+    border: none;
+    border-width: 2px;
+    box-shadow: 3px 2px 10px 2px rgba(0, 0, 0, 0.2);
+    padding: 3px 8px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+div p {
+    padding-left: 10px;
+    padding-right: 80px;
+    color: gray;
+}
+
+div img {
+    width: 30px;
+    border-radius: 15px;
+}
+
+div button {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(76, 141, 245);
+    color: white;
+    border: none;
+    border-radius: 150px;
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+div button:hover {
+    box-shadow: 3px 2px 10px 2px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,29 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.freecode {
+    font-weight: bold;
+}
+
+.bottom-space {
+    margin-bottom: 6px;
+}
+
+.change-color {
+    color: gray;
+}
+
+.increase-width {
+    width: 500px;
+}
+
+.tweet-color {
+    color: rgb(66, 66, 248);
+}
+
+.margin-top {
+    margin-top: 30px;
+}

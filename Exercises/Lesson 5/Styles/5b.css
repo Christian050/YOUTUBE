@@ -1,0 +1,14 @@
+p {
+    font-family: Arial;
+    margin-bottom: 0;
+}
+
+.header {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.body {
+    font-style: italic;
+    color: rgb(255, 93, 93);
+}

@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.drop-button:hover, div:hover {
+    color: white;
+    background-color: blueviolet;
+}
+li.drop
+div {
+    display: none;
+    position: absolute;
+}
