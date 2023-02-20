@@ -1,3 +1,2 @@
-# Learning-HTML---CSS
-Creating Youtube clone (Undone)
-Working on a new project.
+# HTML Project (Youtube)
+Undone, working on a new project. I'll be back to finish it soon.
